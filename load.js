@@ -33,8 +33,6 @@ function shuffleArray(array) {
                                         <p class="username">${item.user_name}</p>
                                         <p class="datetime">${item.date_time}</p>
                                     </div>
-                            
-                                    
                                 </div>
                             </div>
         
