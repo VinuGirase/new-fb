@@ -220,8 +220,7 @@ nav{
 .post-input-container .save-btn{
     width:20%;
     height:4rem;
-/*     border: 1px solid rgb(0, 0, 0); */
-    border: 2px solid red;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 4px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
 
